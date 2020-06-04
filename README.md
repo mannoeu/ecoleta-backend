@@ -6,8 +6,6 @@
 A platform to connect companies and entities that work with the collection of recyclable waste to people who need to dispose of their waste in an ecological way.
 
 ## Technologies
-
-As seguintes ferramentas foram usadas na construção do projeto:
 - Node.js
 - TypeScript
 - Express
